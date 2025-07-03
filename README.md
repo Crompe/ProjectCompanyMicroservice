@@ -1,3 +1,1 @@
-# EurekaServer
-# ProjectCompanyMicroservice
 # ProjectCompanyMicroservice
